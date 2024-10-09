@@ -63,3 +63,12 @@ A **Digital Library Application** that provides users with a versatile platform 
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/your-username/digital-library-system.git
+
+  # Backend setup
+cd backend
+npm install
+
+  # Frontend setup
+cd ../frontend
+npm install
+
