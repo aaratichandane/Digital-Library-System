@@ -64,10 +64,10 @@ A **Digital Library Application** that provides users with a versatile platform 
    ```bash
    git clone https://github.com/your-username/digital-library-system.git
 2. **Install dependencies:**:
-   # Backend setup
+   **Backend setup**
    cd backend
    npm install
   
-  # Frontend setup
+  **Frontend setup**
    cd ../frontend
    npm install
